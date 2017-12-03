@@ -1,0 +1,70 @@
+/* Custom Stylesheet */
+/**
+ * Use this file to override Materialize files so you can update
+ * the core Materialize files in the future
+ *
+ * Made By MaterializeCSS.com
+ */
+
+body {
+
+	font-family: 'Montserrat', sans-serif;
+    background-image: url(https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/itCjTBE/blue-tech-geometric-polygonal-motion-background-video-corporate-animation-hd-1920x1080_vfzkj80jke__F0000.png); 
+	background-repeat: repeat-x;
+}
+
+nav {
+
+	color: #F46197;
+} 
+
+
+.imgintro{
+
+	margin-right: 2%;
+}
+
+nav .brand-logo {
+
+font-family: 'Josefin Sans', sans-serif;
+}
+
+nav .nav-wrapper {
+
+	padding: 0 5%;
+}
+
+.icon-block {
+  padding: 0 15px;
+}
+.icon-block .material-icons {
+	font-size: inherit;
+}
+
+.text-formativo {
+	
+	margin-right: 10%;
+	margin-left: 10%;
+}
+
+.sottotitolo{
+
+	margin-right: ;
+
+	
+}
+
+.btn-registrazione{
+
+	width: 100%;
+}
+
+.responsive-img{
+
+	position: 2%;
+}
+
+.msgspam {
+
+	width: 100%;
+}
